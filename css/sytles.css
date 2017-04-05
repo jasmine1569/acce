@@ -1,0 +1,20 @@
+html{
+	font-family: 'Hind', sans-serif;
+}
+
+/*Hepler*/
+.pull-left{
+	float: left;
+}
+
+.pull-right{
+	float: right;
+}
+
+.clear-left{
+	clear: left;
+}
+
+.clear-right{
+	clear: right;
+}
